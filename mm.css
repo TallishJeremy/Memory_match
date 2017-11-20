@@ -1,0 +1,53 @@
+/*div#memory_board{
+  background:#CCC;
+  border:#999 1px solid;
+  width:800px;
+  height:550px;
+  padding: 25px;
+  margin: 0px auto;
+}
+
+div#memory_board >  div{
+   background: url(title_bg.jpg) no-repeat;
+   border:#000 1px solid;
+   width:75px;
+   height:75px;
+   float: left;
+   margin:10px;
+   padding20px;
+   font-size:60px;
+   cursor:pointer;
+   text-align:center;
+
+}*/
+.row {
+  padding:35px;
+}
+
+ .card {
+   display: inline-block;
+   width: 200px;
+   height: 200px;
+   background-color: green;
+ }
+
+.smile {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background-color: green;
+}
+
+.frown {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background-color: green;
+}
+
+.suprise {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background-color: green;
+}
